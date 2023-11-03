@@ -148,6 +148,9 @@
     <string name="force_enable">強制的に有効</string>
     <string name="mapping">Real-IPをドメインマッピング</string>
     <string name="fakeip">Fake-IPをドメインマッピング</string>
+    <string name="off">OFF</string>
+    <string name="strict">Strict</string>
+    <string name="always">Always</string>
     <string name="system_apps">システムアプリ</string>
     <string name="filter">フィルタ</string>
     <string name="package_name">パッケージ名</string>
@@ -220,7 +223,7 @@
     <string name="unified_delay">Unified Delay</string>
     <string name="geodata_mode">Geodata Mode</string>
     <string name="tcp_concurrent">TCP Concurrent</string>
-    <string name="enable_process">Enable Process</string>
+    <string name="find_process_mode">Find Process Mode</string>
     <string name="sniffer_setting">Sniffer Setting</string>
     <string name="sniffer">Sniffer</string>
     <string name="sniffing">Sniffer Mode</string>
@@ -234,4 +237,21 @@
     <string name="geox_geoip">GeoIP URL</string>
     <string name="geox_mmdb">MMDB URL</string>
     <string name="geox_geosite">Geosite URL</string>
+    <string name="geox_files" >Geo Files</string>
+    <string name="import_geoip_file">Import GeoIP Database</string>
+    <string name="press_to_import">Press to import...</string>
+    <string name="import_geosite_file">Import GeoSite Database</string>
+    <string name="import_country_file">Import Country Database</string>
+    <string name="geofile_import_failed">Import failed</string>
+    <string name="geofile_unknown_db_format">Unknown Database format</string>
+    <string name="geofile_unknown_db_format_message">Only %1$s are supported</string>
+    <string name="geofile_imported">%1$s imported</string>
+    <string name="toast_profile_updated_complete">Update profile %s completed</string>
+    <string name="toast_profile_updated_failed">Update profile %1$s failed: %2$s</string>
+    <string name="external_control_activity">External Control</string>
+    <string name="external_control_started">Clash.Meta service started</string>
+    <string name="external_control_stopped">Clash.Meta service stopped</string>
+    <string name="force_dns_mapping">Force DNS Mapping</string>
+    <string name="parse_pure_ip">Parse Pure IP</string>
+    <string name="override_destination">Override Destination</string>
 </resources>
